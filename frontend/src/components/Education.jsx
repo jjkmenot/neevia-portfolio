@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Award, Calendar, MapPin, Trophy, Certificate } from 'lucide-react';
+import { GraduationCap, Award, Calendar, MapPin, Trophy, FileText } from 'lucide-react';
 import { Badge } from './ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 
