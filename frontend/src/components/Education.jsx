@@ -150,7 +150,7 @@ const Education = ({ education, certifications }) => {
                 >
                   <CardContent className="p-6 text-center space-y-4">
                     <div className={`w-16 h-16 mx-auto rounded-lg border flex items-center justify-center ${certType.color}`}>
-                      <Certificate className="h-8 w-8" />
+                      <FileText className="h-8 w-8" />
                     </div>
                     
                     <div className="space-y-2">
