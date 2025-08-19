@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neevia-portfolio/static/css/main.5db9d0bb.css",
+    "main.js": "/neevia-portfolio/static/js/main.c8086345.js",
+    "index.html": "/neevia-portfolio/index.html",
+    "main.5db9d0bb.css.map": "/neevia-portfolio/static/css/main.5db9d0bb.css.map",
+    "main.c8086345.js.map": "/neevia-portfolio/static/js/main.c8086345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5db9d0bb.css",
+    "static/js/main.c8086345.js"
+  ]
+}
